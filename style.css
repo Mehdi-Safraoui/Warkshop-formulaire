@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Belanosima&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ysabeau+Office:wght@1&display=swap');
+
+h1{
+    font-family: 'Belanosima', sans-serif;
+    text-align: center;
+}
+
+h2{
+    font-family: 'Ysabeau Office' , sans-serif;
+    text-align: center;
+}
+
+#name{
+    padding-right: 250px;
+    width: 350px;
+    height: 40px;
+    margin-right: 50px;
+    margin-bottom: 10px;
+}
+
+#lastname{
+    padding-left: 300px;
+    width: 350px;
+    height: 40px
+}
+
+#email{
+    padding-right: 85%;
+    height:40px ; 
+    margin-bottom: 10px;
+}
+
+#phonenumber{
+    padding-right: 85%;
+    height:40px ; 
+    margin-bottom: 10px;
+}
+
+#password{
+    padding-right: 85%;
+    height:40px ; 
+    margin-bottom: 10px;
+}
+
+#confirmation{
+    padding-right: 85%;
+    height:40px ; 
+    margin-bottom: 10px;
+}
+
+#btn{
+    text-align: center;
+    padding-right: 94.2%;
+    height: 50px;
+    margin-top: 10px;
+}
+
+.titre{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+}
+
+span{
+    color: green;
+    font-family: 'Belanosima', sans-serif;
+    font-size: 40px;
+}
+
+td>p{
+    font-size: 20px;
+}
+
+td>img{
+    height: 450px;
+    width: 500px;
+}
+
+div{
+    margin-top: 75px;
+    margin-bottom: 75px;
+    background-color: white;
+}
+
+body{
+    background: linear-gradient(#71b7e6,#9b59b6);
+}
+
+#petite{
+    margin-left: 180px;
+    margin-right: 100px;
+    height: 500px;
+    width: 950px;
+}
